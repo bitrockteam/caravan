@@ -1,18 +1,19 @@
 # Caravan
 
-List of repos (to be renamed):
+List of all the repos:
 
-- [github.com/bitrockteam/hcpoc-base-terraform-gcp.git](github.com/bitrockteam/hcpoc-base-terraform-gcp.git) -> gcp admin
-- [github.com/bitrockteam/hcpoc-base-packer-centos-gcp.git](github.com/bitrockteam/hcpoc-base-packer-centos-gcp.git) -> to be replaced by caravan-backing
-- [github.com/bitrockteam/caravan-baking.git](github.com/bitrockteam/caravan-baking.git) -> real cook
-- [github.com/bitrockteam/hashicorp-terraform-infra-aws.git](github.com/bitrockteam/hashicorp-terraform-infra-aws.git) -> infra for aws
-- [github.com/bitrockteam/hcpoc-base-terraform-bootstrap-gcp.git](github.com/bitrockteam/hcpoc-base-terraform-bootstrap-gcp.git) -> infra for gcp
-- [github.com/bitrockteam/hashicorp-terraform-cloudinit.git](github.com/bitrockteam/hashicorp-terraform-cloudinit.git) -> cloud agnostic init data renderer
-- [github.com/bitrockteam/hashicorp-terraform-acme.git](github.com/bitrockteam/hashicorp-terraform-acme.git) -> let's encrypt certs deployer
-- [github.com/bootstrap/hashicorp-terraform-bootstrap.git](github.com/bootstrap/hashicorp-terraform-bootstrap.git) -> first layer (vault, vault agent, consul, nomad) bootstraper
-- [github.com/bitrockteam/hcpoc-base-platform.git](github.com/bitrockteam/hcpoc-base-platform.git) -> platform configure module
-- [github.com/bitrockteam/hcpoc-base-vault-baseline.git](github.com/bitrockteam/hcpoc-base-vault-baseline.git) -> multi-module repo bundle
-- [github.com/bitrockteam/hcpoc-base-consul-baseline.git](github.com/bitrockteam/hcpoc-base-consul-baseline.git) -> multi-module repo bundle
-- [github.com/bitrockteam/hcpoc-base-nomad-baseline.git](github.com/bitrockteam/hcpoc-base-nomad-baseline.git) -> multi-module repo bundle
-- [github.com/bitrockteam/hcpoc-base-application-support.git](github.com/bitrockteam/hcpoc-base-application-support.git) -> final layer
-- [github.com/bitrockteam/hcpoc-base-workload.git](github.com/bitrockteam/hcpoc-base-workload.git) -> examples of workflow upon the platform
+- [caravan-acme-le](https://github.com/bitrockteam/caravan-acme-le): terraform module for generating Let's Encrypt certificates
+- [caravan-admin-azure](https://github.com/bitrockteam/caravan-admin-azure): terraform project for mananing Azure shared resources
+- [caravan-admin-gcp](https://github.com/bitrockteam/caravan-admin-gcp):  terraform project for mananing GCP shared resources
+- [caravan-application-support](https://github.com/bitrockteam/caravan-application-support): terraform project for deploying platform applications
+- [caravan-baking](https://github.com/bitrockteam/caravan-baking): cloud image builder
+- [caravan-bootstrap](https://github.com/bitrockteam/caravan-bootstrap): terraform module for bootstrapping clusters
+- [caravan-cloudinit](https://github.com/bitrockteam/caravan-cloudinit): terraform module for generating cloud init scripts
+- [caravan-consul](https://github.com/bitrockteam/caravan-consul): terraform module for configuring consul
+- [caravan-infra-aws](https://github.com/bitrockteam/caravan-infra-aws): terraform project for deploying infrastructure on AWS
+- [caravan-infra-azure](https://github.com/bitrockteam/caravan-infra-azure): terraform project for deploying infrastructure on Azure
+- [caravan-infra-gcp](https://github.com/bitrockteam/caravan-infra-gcp): terraform project for deploying infrastructure on GCP
+- [caravan-nomad](https://github.com/bitrockteam/caravan-nomad): terraform module for configuring nomad
+- [caravan-platform](https://github.com/bitrockteam/caravan-platform): terraform project for configuring the platform 
+- [caravan-vault](https://github.com/bitrockteam/caravan-vault): terraform module for configuring vault
+- [caravan-workload](https://github.com/bitrockteam/caravan-workload): terraform project with sample workloads
