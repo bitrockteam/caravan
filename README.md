@@ -8,6 +8,7 @@ List of all the repos:
 - [caravan-application-support](https://github.com/bitrockteam/caravan-application-support): terraform project for deploying platform applications
 - [caravan-baking](https://github.com/bitrockteam/caravan-baking): cloud image builder
 - [caravan-bootstrap](https://github.com/bitrockteam/caravan-bootstrap): terraform module for bootstrapping clusters
+- [caravan-cart](https://github.com/bitrockteam/caravan-cart): terraform modules for deploying selected applications
 - [caravan-cloudinit](https://github.com/bitrockteam/caravan-cloudinit): terraform module for generating cloud init scripts
 - [caravan-consul](https://github.com/bitrockteam/caravan-consul): terraform module for configuring consul
 - [caravan-infra-aws](https://github.com/bitrockteam/caravan-infra-aws): terraform project for deploying infrastructure on AWS
