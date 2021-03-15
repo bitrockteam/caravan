@@ -1,6 +1,8 @@
 # Caravan
 
-List of all the repos:
+![repo-map](https://lucid.app/publicSegments/view/d864e9a0-b966-4a53-be66-1f715fef28c2/image.png)
+
+## Repos
 
 - [caravan-acme-le](https://github.com/bitrockteam/caravan-acme-le): terraform module for generating Let's Encrypt certificates ![CI](https://github.com/bitrockteam/caravan-acme-le/actions/workflows/terraform.yml/badge.svg)
 - [caravan-admin-azure](https://github.com/bitrockteam/caravan-admin-azure): terraform project for mananing Azure shared resources ![CI](https://github.com/bitrockteam/caravan-admin-azure/actions/workflows/terraform.yml/badge.svg)
@@ -17,4 +19,5 @@ List of all the repos:
 - [caravan-nomad](https://github.com/bitrockteam/caravan-nomad): terraform module for configuring nomad ![CI](https://github.com/bitrockteam/caravan-nomad/actions/workflows/terraform.yml/badge.svg)
 - [caravan-platform](https://github.com/bitrockteam/caravan-platform): terraform project for configuring the platform ![CI](https://github.com/bitrockteam/caravan-platform/actions/workflows/terraform.yml/badge.svg)
 - [caravan-vault](https://github.com/bitrockteam/caravan-vault): terraform module for configuring vault ![CI](https://github.com/bitrockteam/caravan-vault/actions/workflows/terraform.yml/badge.svg)
-- [caravan-workload](https://github.com/bitrockteam/caravan-workload): terraform project with sample workloads ![CI](https://github.com/bitrockteam/caravan-workload/actions/workflows/terraform.yml/badge.svg)
+<!-- - [caravan-workload](https://github.com/bitrockteam/caravan-workload): terraform project with sample workloads ![CI](https://github.com/bitrockteam/caravan-workload/actions/workflows/terraform.yml/badge.svg) -->
+
