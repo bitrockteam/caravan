@@ -7,10 +7,6 @@ Checkout the [wiki](https://github.com/bitrockteam/caravan/wiki) for a quickstar
 ## Repos
 
 - [caravan-acme-le](https://github.com/bitrockteam/caravan-acme-le): terraform module for generating Let's Encrypt certificates ![CI](https://github.com/bitrockteam/caravan-acme-le/actions/workflows/terraform.yml/badge.svg)
-<!--
-- [caravan-admin-azure](https://github.com/bitrockteam/caravan-admin-azure): terraform project for mananing Azure shared resources ![CI](https://github.com/bitrockteam/caravan-admin-azure/actions/workflows/terraform.yml/badge.svg)
-- [caravan-admin-gcp](https://github.com/bitrockteam/caravan-admin-gcp):  terraform project for mananing GCP shared resources ![CI](https://github.com/bitrockteam/caravan-admin-gcp/actions/workflows/terraform.yml/badge.svg)
--->
 - [caravan-application-support](https://github.com/bitrockteam/caravan-application-support): terraform project for deploying platform applications ![CI](https://github.com/bitrockteam/caravan-application-support/actions/workflows/terraform.yml/badge.svg)
 - [caravan-baking](https://github.com/bitrockteam/caravan-baking): cloud image builder ![CI](https://github.com/bitrockteam/caravan-baking/actions/workflows/terraform.yml/badge.svg)
 - [caravan-bootstrap](https://github.com/bitrockteam/caravan-bootstrap): terraform module for bootstrapping clusters ![CI](https://github.com/bitrockteam/caravan-bootstrap/actions/workflows/terraform.yml/badge.svg)
@@ -24,4 +20,6 @@ Checkout the [wiki](https://github.com/bitrockteam/caravan/wiki) for a quickstar
 - [caravan-platform](https://github.com/bitrockteam/caravan-platform): terraform project for configuring the platform ![CI](https://github.com/bitrockteam/caravan-platform/actions/workflows/terraform.yml/badge.svg)
 - [caravan-vault](https://github.com/bitrockteam/caravan-vault): terraform module for configuring vault ![CI](https://github.com/bitrockteam/caravan-vault/actions/workflows/terraform.yml/badge.svg)
 <!-- - [caravan-workload](https://github.com/bitrockteam/caravan-workload): terraform project with sample workloads ![CI](https://github.com/bitrockteam/caravan-workload/actions/workflows/terraform.yml/badge.svg) -->
+<!-- - [caravan-admin-azure](https://github.com/bitrockteam/caravan-admin-azure): terraform project for mananing Azure shared resources ![CI](https://github.com/bitrockteam/caravan-admin-azure/actions/workflows/terraform.yml/badge.svg)
+- [caravan-admin-gcp](https://github.com/bitrockteam/caravan-admin-gcp):  terraform project for mananing GCP shared resources ![CI](https://github.com/bitrockteam/caravan-admin-gcp/actions/workflows/terraform.yml/badge.svg)-->
 
