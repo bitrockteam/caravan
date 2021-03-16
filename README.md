@@ -1,5 +1,7 @@
 # Caravan
 
+Checkout the [wiki](https://github.com/bitrockteam/caravan/wiki) for a quickstart!
+
 ![repo-map](https://lucid.app/publicSegments/view/d864e9a0-b966-4a53-be66-1f715fef28c2/image.png)
 
 ## Repos
