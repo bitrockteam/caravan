@@ -1,10 +1,12 @@
 # Caravan
 
+## Getting started
+
 Checkout the [wiki](https://github.com/bitrockteam/caravan/wiki) for a quickstart!
 
-![repo-map](https://lucid.app/publicSegments/view/d864e9a0-b966-4a53-be66-1f715fef28c2/image.png)
-
 ## Repos
+
+![repo-map](https://lucid.app/publicSegments/view/d864e9a0-b966-4a53-be66-1f715fef28c2/image.png)
 
 - [caravan-acme-le](https://github.com/bitrockteam/caravan-acme-le): terraform module for generating Let's Encrypt certificates ![CI](https://github.com/bitrockteam/caravan-acme-le/actions/workflows/terraform.yml/badge.svg)
 - [caravan-application-support](https://github.com/bitrockteam/caravan-application-support): terraform project for deploying platform applications ![CI](https://github.com/bitrockteam/caravan-application-support/actions/workflows/terraform.yml/badge.svg)
