@@ -29,3 +29,10 @@ The changelog is available on the [wiki](https://github.com/bitrockteam/caravan/
 <!-- - [caravan-admin-azure](https://github.com/bitrockteam/caravan-admin-azure): terraform project for mananing Azure shared resources [![CI](https://github.com/bitrockteam/caravan-admin-azure/actions/workflows/terraform.yml/badge.svg)](https://github.com/bitrockteam/caravan-admin-azure/actions)
 - [caravan-admin-gcp](https://github.com/bitrockteam/caravan-admin-gcp):  terraform project for mananing GCP shared resources [![CI](https://github.com/bitrockteam/caravan-admin-gcp/actions/workflows/terraform.yml/badge.svg)](https://github.com/bitrockteam/caravan-admin-gcp/actions) -->
 
+## Contribute
+
+### Project Governance
+
+Click here [caravan-project](https://github.com/orgs/bitrockteam/projects/15) to access the current status of the issues for all related projects. 
+
+Feel free to contribute: Todos are waiting for you !!
