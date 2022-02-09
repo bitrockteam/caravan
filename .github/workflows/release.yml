@@ -25,6 +25,7 @@ jobs:
         with:
           repository: ${{ matrix.repo }}
           ref: 'main'
+          token: ${{ secrets.BITROCKCIPAT }}
       - name: Release Branch
         if: matrix.repo != 'bitrockteam/caravan'
         run: |
