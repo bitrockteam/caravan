@@ -1,0 +1,38 @@
+name: Release
+on:
+  push:
+    tags:        
+      - "[0-9]+.[0-9]+"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo: [
+          bitrockteam/caravan-baking,
+          bitrockteam/caravan-infra-aws,
+          bitrockteam/caravan-infra-gcp,
+          bitrockteam/caravan-infra-azure,
+          bitrockteam/caravan-platform,
+          bitrockteam/caravan-application-support,
+          bitrockteam/caravan
+        ]
+    steps:
+      - name: Get the tag name
+        run: echo "TAG=${GITHUB_REF/refs\/tags\//}" >> $GITHUB_ENV
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ matrix.repo }}
+          ref: 'main'
+      - name: Release Branch
+        uses: peterjgrainger/action-create-branch@v2.0.1
+        if: matrix.repo != 'bitrockteam/caravan'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          branch: release/caravan-$TAG
+      - name: Release
+        if: matrix.repo == 'bitrockteam/caravan'
+        uses: softprops/action-gh-release@v1
+      # TODO Make branch protected in meta-projects
