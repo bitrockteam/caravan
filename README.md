@@ -36,3 +36,9 @@ The changelog is available on the [wiki](https://github.com/bitrockteam/caravan/
 Click here [caravan-project](https://github.com/orgs/bitrockteam/projects/15) to access the current status of the issues for all related projects. 
 
 Feel free to contribute: Todos are waiting for you !!
+
+### Interact with the team
+
+* chat with us on [discord](https://discord.gg/rgzWKpxRXw)
+* meet us every 2 weeks wednesday 10:30-11:00 (CET) on [zoom](https://us02web.zoom.us/j/84597983263?pwd=eitQQk4xSDBzWEZ3VHI1Vm1pb2JtZz09)
+
