@@ -43,13 +43,14 @@ Feel free to contribute: Todos are waiting for you !!
 * meet us every 2 weeks wednesday 10:30-11:00 (CET) on [zoom](https://us02web.zoom.us/j/83607992019?pwd=aUNTVWgvQ1B1UkZrWmQyamRKaHFDUT09)
   
   Next meetings schedule:
-    - Feb 23, 2022 10:30 AM
-    - Mar 9, 2022 10:30 AM
-    - Mar 23, 2022 10:30 AM
-    - Apr 6, 2022 10:30 AM
-    - Apr 20, 2022 10:30 AM
-    - May 4, 2022 10:30 AM
-    - May 18, 2022 10:30 AM
-    - Jun 1, 2022 10:30 AM
-    - Jun 15, 2022 10:30 AM 
-
+   - Mar 2, 2022 10:30 AM
+   - Mar 16, 2022 10:30 AM
+   - Mar 30, 2022 10:30 AM
+   - Apr 13, 2022 10:30 AM
+   - Apr 27, 2022 10:30 AM
+   - May 11, 2022 10:30 AM
+   - May 25, 2022 10:30 AM
+   - Jun 8, 2022 10:30 AM
+   - Jun 22, 2022 10:30 AM
+   - Jul 6, 2022 10:30 AM
+   - Jul 20, 2022 10:30 AM
