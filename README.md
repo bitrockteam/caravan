@@ -40,5 +40,17 @@ Feel free to contribute: Todos are waiting for you !!
 ### Interact with the team
 
 * chat with us on [discord](https://discord.gg/rgzWKpxRXw)
-* meet us every 2 weeks wednesday 10:30-11:00 (CET) on [zoom](https://us02web.zoom.us/j/84597983263?pwd=eitQQk4xSDBzWEZ3VHI1Vm1pb2JtZz09)
-
+* meet us every 2 weeks wednesday 10:30-11:00 (CET) on [zoom](https://us02web.zoom.us/j/83607992019?pwd=aUNTVWgvQ1B1UkZrWmQyamRKaHFDUT09)
+  
+  Next meetings schedule:
+   - Mar 2, 2022 10:30 AM
+   - Mar 16, 2022 10:30 AM
+   - Mar 30, 2022 10:30 AM
+   - Apr 13, 2022 10:30 AM
+   - Apr 27, 2022 10:30 AM
+   - May 11, 2022 10:30 AM
+   - May 25, 2022 10:30 AM
+   - Jun 8, 2022 10:30 AM
+   - Jun 22, 2022 10:30 AM
+   - Jul 6, 2022 10:30 AM
+   - Jul 20, 2022 10:30 AM
